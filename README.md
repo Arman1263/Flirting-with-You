@@ -12,15 +12,3 @@ Welcome to **Flirty Vibes** – a playful and charming Streamlit web app designe
 
 ---
 
-## 🎯 Use Case
-
-Share the web app link with someone you’re interested in and let the app do the charming. Whether it's just for fun or to show off your humor and creativity, this app leaves an impression.
-
----
-
-## 📦 Installation
-
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/your-username/flirty-vibes.git
-   cd flirty-vibes
